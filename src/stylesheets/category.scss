@@ -1,0 +1,14 @@
+.category-base {
+  background-color: #000;
+  height: 100%;
+  width: 96vw;
+  position: fixed;
+  right: 0;
+  transition: 0.4s ease-in-out;
+}
+
+.hovering {
+  transform: scale(0.7) skew(-5deg);
+  box-shadow: 0vw 110vh 100px #78787830;
+  outline: 1px solid #30303050;
+}

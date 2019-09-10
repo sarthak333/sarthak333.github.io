@@ -1,0 +1,12 @@
+.base {
+  height: 100vh;
+  width: 100vw;
+  background-color: #171717;
+}
+
+ .perfect-center{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   align-self: center;
+ }
